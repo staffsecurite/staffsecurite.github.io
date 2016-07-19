@@ -870,3 +870,9 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #e2041a;
 }
+
+.news-navbar {
+    background: #e2041a;
+    text-align: center;
+    font-size: 15pt;
+}
